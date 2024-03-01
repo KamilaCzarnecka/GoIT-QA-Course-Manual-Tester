@@ -1,0 +1,1 @@
+<a target='_blank' href={require('path/to/pdf/file')}>PDF Doc</a>
